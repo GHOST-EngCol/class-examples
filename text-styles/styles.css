@@ -1,0 +1,31 @@
+/* Stylish Text Design */
+.stylish-text {
+    color: #2C3E50; /* Dark slate blue for readability and modern feel */
+    font-family: 'Roboto', sans-serif; /* Clean and professional sans-serif font */
+    font-size: 18px; /* Comfortable reading size */
+    line-height: 1.6; /* Balanced spacing for readability */
+    letter-spacing: 0.5px; /* Slight spacing for elegance */
+    text-align: justify; /* Professional and clean alignment */
+    text-decoration: none; /* Minimalistic and clean look */
+}
+  
+.fancy-text {
+    color: #E74C3C; /* Vibrant red for attention-grabbing design */
+    font-family: 'Playfair Display', serif; /* Elegant serif font */
+    font-size: 22px; /* Larger font for headlines */
+    line-height: 1.8; /* Extra spacing for a luxurious feel */
+    letter-spacing: 1px; /* Wide spacing for a fancy effect */
+    text-align: center; /* Centered for focus */
+    text-decoration: underline; /* Underline for emphasis */
+}
+
+.minimal-text {
+    color: #34495E; /* Neutral grayish-blue for modern minimalism */
+    font-family: 'Arial', sans-serif; /* Clean and widely available */
+    font-size: 16px; /* Standard size for body text */
+    line-height: 1.5; /* Simple spacing for regular text */
+    letter-spacing: 0; /* Default spacing for simplicity */
+    text-align: left; /* Default left alignment */
+    text-decoration: none; /* Minimalistic approach */
+}
+  
